@@ -1,0 +1,15 @@
+D:\shagardi\shgardi\ProductApi\obj\Debug\net8.0\ProductApi.csproj.AssemblyReference.cache
+D:\shagardi\shgardi\ProductApi\obj\Debug\net8.0\ProductApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\shagardi\shgardi\ProductApi\obj\Debug\net8.0\ProductApi.AssemblyInfoInputs.cache
+D:\shagardi\shgardi\ProductApi\obj\Debug\net8.0\ProductApi.AssemblyInfo.cs
+D:\shagardi\shgardi\ProductApi\obj\Debug\net8.0\ProductApi.csproj.CoreCompileInputs.cache
+D:\shagardi\shgardi\ProductApi\obj\Debug\net8.0\ProductApi.MvcApplicationPartsAssemblyInfo.cs
+D:\shagardi\shgardi\ProductApi\obj\Debug\net8.0\ProductApi.MvcApplicationPartsAssemblyInfo.cache
+D:\project\ProductApi\obj\Debug\net8.0\ProductApi.csproj.AssemblyReference.cache
+D:\project\ProductApi\obj\Debug\net8.0\ProductApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\ProductApi\obj\Debug\net8.0\ProductApi.AssemblyInfoInputs.cache
+D:\project\ProductApi\obj\Debug\net8.0\ProductApi.AssemblyInfo.cs
+D:\project\ProductApi\obj\Debug\net8.0\ProductApi.csproj.CoreCompileInputs.cache
+D:\project\ProductApi\obj\Debug\net8.0\ProductApi.MvcApplicationPartsAssemblyInfo.cs
+D:\project\ProductApi\obj\Debug\net8.0\ProductApi.MvcApplicationPartsAssemblyInfo.cache
+D:\project\ProductApi\obj\Debug\net8.0\ProductApi.sourcelink.json
